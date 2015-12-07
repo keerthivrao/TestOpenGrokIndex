@@ -1,7 +1,7 @@
 # TestOpenGrokIndex
 
-Version 1
-Version 1
-Version 1
-Base 1
-Base 1
+Version 2
+Version 
+Version 2
+Base 2
+Base 2
