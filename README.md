@@ -1,0 +1,2 @@
+# TestOpenGrokIndex
+TestOpenGrokIndex
